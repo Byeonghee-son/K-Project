@@ -6,4 +6,4 @@ front
 
 back <br/>
   + C:\ 안에 파일을 넣어주세요!!
-  + 0724 csv파일 전처리 및 spring-boot 기본 구조 작성
+  + 0724 : csv파일 전처리 및 spring-boot 기본 구조 작성
